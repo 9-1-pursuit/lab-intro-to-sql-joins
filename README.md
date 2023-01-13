@@ -22,4 +22,12 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+I chose to use SQLZoo.
+
 - What are three things you learned during this lab?
+
+I learned about BETWEEN and how that can help narrow down numbers (i.e finding countries with a population between 2 numbers).
+
+I learned that when you write something as '%a', that means it ends in 'a', when you write something as '%a%', that means 'a' is somewhere in the middle of it, and when you write something as 'a%' that means it starts with 'a'. The % acts as a wild card and can match any characters.
+
+I learned that you can use an underscore to indicate a single character wild card. i.e, if you need to find something where e is the second letter you can write '_e%'.
