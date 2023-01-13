@@ -22,4 +22,8 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+|   3    |             Hanging in there             |                                                                                                 [Work your way through SQL Zoo]
 - What are three things you learned during this lab?
+1) Got more comfortable with Select
+2) Got more comforable with Join
+3) how to do calculation in sql
