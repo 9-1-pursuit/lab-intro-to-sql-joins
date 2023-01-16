@@ -21,5 +21,9 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+  I choose the SQL ZOO and I also attented the Football, but the computer was having problem
 
 - What are three things you learned during this lab?
+  SELECT statements within SELECT statements to perform more complex queries.
+  concat and round
+  A lot of syntax
