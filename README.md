@@ -21,5 +21,9 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+I chose to use the SQL Zoo to start my intro to SQL learning. 
 
 - What are three things you learned during this lab?
+SQL is like english and code mixed in one
+SQL can get really tedious if data and tables are a lot
+I learned that I have to work through the logic of SQL before writing the code.
