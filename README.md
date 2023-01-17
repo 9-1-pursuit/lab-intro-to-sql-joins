@@ -21,5 +21,8 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+I chose to work my way through SQL Zoo and I also attempted some of the bonus challenges from the lecture markdown.
 
 - What are three things you learned during this lab?
+
+The additional review really helped with my muscle memory and I now feel much more confident going into future labs and projects.
