@@ -22,4 +22,10 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+The resource I chose was SQL Zoo.
+
 - What are three things you learned during this lab?
+
+I learned there are functions that we can use when making a selection such as ROUND(f,p).
+i learned that using '<>' will exclude that value from the selection.
+I learned that using the keyword IN allows us to check if an item is in a list.
