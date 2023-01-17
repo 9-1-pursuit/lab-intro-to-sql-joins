@@ -24,6 +24,6 @@ Rate your comfort and choose the matching activity
 I used no 5, the Soccer Data
 
 - What are three things you learned during this lab?
-How to import a csv into a PostgreSQL table
-The importance of cleaning data and selecting what columns and data to import
-I have a better understanding of Joins
+1. How to import a csv into a PostgreSQL table
+2. The importance of cleaning data and selecting what columns and data to import
+3. I have a better understanding of Joins
