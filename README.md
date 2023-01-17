@@ -3,7 +3,7 @@
 
 ### In Canvas, answer the following questions:
 
-- Which resource did you choose to use?
+- Which resource did you choose to use?<br>
 I chose to do the SQL BOT AND part of the SQL ZOO to reinforce the new queries and syntax we learned about in SQL so far<br>
 
 - What are three things you learned during this lab?<br>
