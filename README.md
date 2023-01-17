@@ -21,5 +21,9 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+  I worked my way through some of the SQL Zoo tutorials.
 
 - What are three things you learned during this lab?
+  •I used the between keyword for showing a range
+  •You could divide columns by each other to manipulate the data
+  • I need to do more tutorials to awnser honestly will circle back.
