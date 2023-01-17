@@ -21,5 +21,9 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+I used no 5, the Soccer Data
 
 - What are three things you learned during this lab?
+How to import a csv into a PostgreSQL table
+The importance of cleaning data and selecting what columns and data to import
+I have a better understanding of Joins
