@@ -22,4 +22,10 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+I used the resource of SQL Bolt.
+
 - What are three things you learned during this lab?
+
+I learned that '<>' and '!=' is the sql version of a bang.
+DISTINCT removes duplicate rows.
+ORDER BY sorts out EACH row alpha-numerically .
