@@ -22,4 +22,13 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+I choose the resource Work your way through SQL Zoo
+
 - What are three things you learned during this lab?
+
+1. The % sign position matters to what you want to find for example
+   %c means being with a c, c% means ends with a c, and %c% means the word/letter is included with the word you're looking for.
+
+2. I also learned more about the math functionality in sql.
+
+3. I also learned more about how select is used to filter.
