@@ -21,5 +21,9 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+- I used worked your way through SQL Zoo
 
 - What are three things you learned during this lab?
+- 1 - SELECT STATEMENTS WITH WHERE CLAUSE.
+- 2 - LIKE and IN operator.
+- 3 - ROUND function.
