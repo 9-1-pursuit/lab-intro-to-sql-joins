@@ -1,25 +1,14 @@
 # SQL Joins
 
-### Part 1
-
-Finish Regifter, if you haven't
-
-### Part 2
-
-Choose Your Own Learning
-
-Rate your comfort and choose the matching activity
-
-| Rating |              What it means               |                                                                                                               What you should work on                                                                                                               |
-| :----: | :--------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   5    | I feel amazing! Give me more challenges! | [Football/Futball/Soccer Data](https://github.com/jokecamp/FootballData/tree/master/openFootballData) Download and join the many tables to create info on historical data, like which players are on what teams? Who scored what goal in what game? |
-|   4    |               Feeling good               |                                                                                     Go back to the bonus challenges in the lecture markdowns and solve each one                                                                                     |
-|   3    |             Hanging in there             |                                                                                                 [Work your way through SQL Zoo](https://sqlzoo.net)                                                                                                 |
-|   2    |           I'm feeling stressed           |                                                                                                [Work your way through SQL Bolt](https://sqlbolt.com)                                                                                                |
-|   1    |           What just happened?            |                                                                                          Take a break and then schedule a time to talk to your instructor                                                                                           |
 
 ### In Canvas, answer the following questions:
 
-- Which resource did you choose to use?
+- Which resource did you choose to use?<br>
+I chose to do the SQL BOT AND part of the SQL ZOO to reinforce the new queries and syntax we learned about in SQL so far<br>
 
-- What are three things you learned during this lab?
+- What are three things you learned during this lab?<br>
+I learned the correct order of execution of a query<br>
+I learned how to use the DISTINCT keyword to remove duplicate results in a query<br>
+I learned how to use the AS keyword with expressions to give the resulting expression an alias column name<br>
+I learned how to combine the GROUPED BY key with aggregate functions to group rows that have the same value in the column specified<br>
+I learned when CREATE TABLE, you can add the default values and contraints to a column in the same command
