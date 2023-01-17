@@ -21,5 +21,8 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
-
+Links from lesson notes 
 - What are three things you learned during this lab?
+Selecting different Queries
+OUTTER and INNER JOIN
+Altering Tables 
