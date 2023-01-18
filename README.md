@@ -22,4 +22,11 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+1.SQL ZOO
+
 - What are three things you learned during this lab?
+
+1. Between keyword
+2. Full outer join and inner join
+3. Query concatenation of two columns
+
