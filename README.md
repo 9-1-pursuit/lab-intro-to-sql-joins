@@ -22,4 +22,19 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+  I picked the SQL Bolt and will do SQL ZOO for more pracitice.
+
 - What are three things you learned during this lab?
+  I learned how to use basic syntax
+
+SELECT query
+SELECT column, another_column, …
+FROM mytable
+WHERE condition(s)
+ORDER BY column ASC/DESC
+LIMIT num_limit OFFSET num_offset;
+
+I Learned how to use Destinct.
+What i also learn is that the way you word your query is very important. I was getting no response because i wasnt being very detailed.
+
+But will continue going over it."
