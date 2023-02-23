@@ -22,4 +22,23 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+   - I chose `SQL Zoo`
+
 - What are three things you learned during this lab?
+
+    - Learned pattern matching strings which can be used to find a value in the table using the like operator %.
+
+    - Learned how to use SELECT command and WHERE filter.
+
+    - Learned how to use SELECT statements within SELECT statements which allows to perform more complex queries.
+           - Example: 
+               SELECT name
+               FROM world
+               WHERE continent='Europe' AND
+               gdp/population>(
+                  SELECT gdp/population
+                  FROM world
+                  WHERE name= 'United Kingdom'
+                )
+         This will select the counties in Europe with higher per capita GDP than 'United Kingdom'
+
